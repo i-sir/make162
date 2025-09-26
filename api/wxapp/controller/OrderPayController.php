@@ -72,8 +72,8 @@ class OrderPayController extends AuthController
      *     @OA\Response(response="default", description="An example resource")
      * )
      *
-     *   test_environment: http://makeTemplate.ikun/api/wxapp/order_pay/wx_pay_mp
-     *   official_environment: https://ljh.wxselling.net/api/wxapp/order_pay/wx_pay_mp
+     *   test_environment: http://make162.ikun:9090/api/wxapp/order_pay/wx_pay_mp
+     *   official_environment: https://dzam162.wxselling.net/api/wxapp/order_pay/wx_pay_mp
      *   api: /wxapp/order_pay/wx_pay_mp
      *   remark_name: 微信公众号支付
      *
